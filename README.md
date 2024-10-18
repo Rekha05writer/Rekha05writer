@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **developing project to showcase my skills**
 
-- 👨‍💻 currently i do not have any project but [working on it](working on it)
+- 👨‍💻 currently i do not have any project but working on it
 
-- 📝 I regularly write articles on [Quora, even i have experience in content writing](Quora, even i have experience in content writing)
+- 📝 I regularly write articles on Quora, even i have experience in content writing
 
 - 💬 Ask me about **Excel, SQL, Power BI, Tableau**
 
